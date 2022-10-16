@@ -1,0 +1,4 @@
+.idea/
+node_modules/
+app-clima-consola-node.iml
+.env
